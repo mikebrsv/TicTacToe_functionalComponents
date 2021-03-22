@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react';
 
 const Square = (props) => {
   return (
@@ -11,4 +11,4 @@ const Square = (props) => {
   )
 }
 
-export default Square
+export default Square;
